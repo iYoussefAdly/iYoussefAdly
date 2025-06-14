@@ -21,8 +21,8 @@
 - 🚀 Keep improving as a cross-platform developer  
 
 ## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/youssefadly](https://www.linkedin.com/in/youssefadly)  
-- GitHub: [github.com/youssefadly](https://github.com/youssefadly)
+- LinkedIn: [[linkedin.com/in/youssefadly](https://www.linkedin.com/in/youssefadly](https://www.linkedin.com/in/youssef-adly-806038320/))  
+- GitHub: [github.com/iYoussefAdly](https://github.com/iYoussefAdly)
 
 ---
 
