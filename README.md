@@ -1,57 +1,55 @@
 <h1 align="center">Hey there 👋, I'm Youssef Adly</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Flutter+Developer+%F0%9F%92%99;Mastering+Bloc+%26+MVVM+Architecture;Building+Real+Apps+From+Scratch;Leveling+Up+Every+Day+%F0%9F%94%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Flutter+Developer+💙;Learning+MVVM+with+Bloc+🧠;Building+Real+Projects+📖;Leveling+Up+Every+Day+💫" alt="Typing SVG" />
 </p>
-
-
-
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Final-year **Computer Science Student** – Faculty of Computers & AI  
 - 🚀 **DEPI Trainee** – Digital Egypt Pioneers Initiative  
-- 💙 Cross-platform **Flutter Developer** focused on building scalable apps  
-- 💡 Always exploring new tools & patterns like **Bloc**, **MVVM**, and **Hive**
+- 💙 Flutter Developer focused on scalable, clean cross-platform apps  
+- 🔁 Currently applying **MVVM + Bloc** across all my projects  
+- 📚 Passionate about building real apps & growing through practice
 
 ---
 
-## 🔥 Featured Projects & Milestones
+## 💼 Featured Projects
 
 ### 🧑‍💻 Built Independently
-- ⚽ **LeagueTrack** – My first fully self-built app  
-  → `Bloc` state management + `Hive` local storage  
-  → Practical implementation of all my learning  
+- ⚽ **LeagueTrack** – First self-built project  
+  → Built with **Bloc** & **Hive**  
+  → Applied what I learned to build from scratch
 
-### 📚 Built During My Learning Journey
-| Project       | Tech Focus                            |
-|---------------|----------------------------------------|
-| 📰 News App    | UI basics, Navigation, Stateful Widgets |
-| 🌦️ Weather App | Intro to `Cubit` & API integration     |
-| 💬 Chat App    | Firebase Auth & Realtime DB            |
-| 📝 Notes App   | Local storage using `Hive`             |
-| 🛍️ Store App   | API testing via Postman                |
+### 📚 Built During Learning
+| Project       | Tech Focus                             |
+|---------------|-----------------------------------------|
+| 📰 News App    | Basics of UI & navigation               |
+| 🌦️ Weather App | Started learning `Cubit` & API usage    |
+| 💬 Chat App    | Firebase Auth + Realtime Database       |
+| 📝 Notes App   | Local DB using Hive                     |
+| 🛍️ Store App   | Working with API & Postman              |
 
 ---
 
 ## 🚀 What I’m Learning Now
-- 🎨 Advanced Flutter: animations, custom widgets, theming  
-- 🧠 MVVM pattern using `Bloc` architecture  
-- 🧩 Responsive UI for different screen sizes  
-- 🔥 Deeper dive into Firebase (Firestore, Storage)  
-- 💪 Problem-solving and clean code every day
+- 🎨 Advanced Flutter (custom widgets, animations)  
+- 🧠 MVVM with Bloc  
+- 🧩 Responsive UI  
+- 🔥 Firebase (Firestore, Storage)  
+- 💪 Clean architecture & problem-solving  
 
 ---
 
 ## 🎯 My Developer Goals
 - 🧱 Build production-level apps with solid architecture  
-- 🤝 Collaborate confidently in real-world team environments  
-- 🚀 Become a creative & efficient cross-platform engineer  
+- 🤝 Collaborate effectively in team environments  
+- 📈 Improve every day as a cross-platform engineer  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -64,16 +62,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iYoussefAdly&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iYoussefAdly&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iYoussefAdly&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iYoussefAdly&layout=compact&theme=tokyonight&hide_title=true" height="170" />
 </p>
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssef-adly-806038320/">
@@ -90,3 +88,4 @@
 ---
 
 <p align="center"><i>“Learning by doing. Growing with every line of code.”</i></p>
+
