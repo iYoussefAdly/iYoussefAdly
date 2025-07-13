@@ -1,7 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Youssef Adly</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Flutter+Developer+💙;Clean+UI+%26+State+Management+Lover;Problem+Solver+%F0%9F%A4%96;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Flutter+Developer+💙;Problem+Solver+🧠;MVVM+with+Bloc;Always+Learning+📚" alt="Typing animation" />
 </p>
 
 ---
