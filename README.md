@@ -1,8 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Youssef Adly</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Flutter+Developer+💙;Clean+UI+%26+State+Management+Lover;Problem+Solver+🧠;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Flutter+Developer+%F0%9F%92%99;Mastering+Bloc+%26+MVVM+Architecture;Building+Real+Apps+From+Scratch;Leveling+Up+Every+Day+%F0%9F%94%AA" alt="Typing SVG" />
 </p>
+
 
 
 
