@@ -1,18 +1,51 @@
 <h1 align="center">Hi 👋, I'm Youssef Adly</h1>
 
 <p align="center">
-Flutter Developer | Clean Architecture | Scalable Mobile Apps
+  <strong>Flutter Developer</strong> • Clean Architecture • Scalable Mobile Apps
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=20&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Apps;Focused+on+Production-Ready+Code" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Flutter Developer** with a strong focus on building **scalable, well-structured mobile applications** using clean and maintainable code.
+I’m a **Flutter Developer** focused on building **scalable, well-structured mobile applications** using clean, maintainable, and testable code.
 
-I have hands-on experience with **Flutter & Dart**, applying **state management (BLoC)**, **MVVM**, and **Clean Architecture** across real-world projects. My journey combines solid technical foundations, continuous learning, and real team-based development.
+My experience includes working with **Flutter & Dart**, applying **BLoC**, **MVVM**, and **Clean Architecture** across real-world projects. I care deeply about project structure, code quality, and building applications that can grow over time.
 
-I recently completed the **Digital Egypt Pioneers Program (DEPI)**, where I worked as the **Flutter Team Lead** on *Qanouny*, a large-scale graduation project developed in collaboration with AI and Data Engineering teams. The project was recognized among the **top projects within AMIT Learning**.
+I completed the **Digital Egypt Pioneers Program (DEPI)**, where I worked as the **Flutter Team Lead** on *Qanouny* — a large-scale graduation project developed in collaboration with AI and Data Engineering teams, and recognized among the **top projects within AMIT Learning**.
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Responsive Dashboard
+A fully **responsive and adaptive dashboard** built with Flutter.  
+Designed to work seamlessly across different screen sizes (desktop, tablet, mobile), focusing on clean UI structure and reusable components.
+
+**Tech highlights:**  
+Flutter • Responsive UI • Adaptive Layouts • Clean UI Components
+
+---
+
+### 📘 Bookly App (Clean Architecture)
+A feature-rich Flutter application built using **Clean Architecture** principles.  
+Focused on separation of concerns, scalability, API integration, and maintainable state management.
+
+**Tech highlights:**  
+Flutter • BLoC • Clean Architecture • REST APIs • Error Handling
+
+---
+
+### ⚖️ Qanouny
+A large-scale graduation project developed during **DEPI**.  
+Worked as the **Flutter Team Lead**, collaborating with AI and Data Engineering teams to deliver a real-world solution.
+
+**Tech highlights:**  
+Flutter • Team Leadership • Scalable Architecture • Cross-team Collaboration
 
 ---
 
@@ -20,33 +53,18 @@ I recently completed the **Digital Egypt Pioneers Program (DEPI)**, where I work
 - Flutter & Dart  
 - Clean Architecture & Clean Code  
 - State Management (BLoC)  
-- Firebase & REST APIs  
 - Responsive & Adaptive UI  
+- Firebase & REST APIs  
 - Git & GitHub  
-
----
-
-## 🚀 Key Projects
-
-### 📘 Bookly App
-A feature-rich Flutter application built using **BLoC**, **MVVM**, and **Clean Architecture** principles.  
-Focused on scalable structure, API integration, and maintainable code.
-
-### ⚖️ Qanouny
-A large-scale graduation project developed during **DEPI**.  
-- Role: **Flutter Team Lead**  
-- Collaboration with AI & Data Engineering teams  
-- Recognized as one of the **top projects** within AMIT Learning  
 
 ---
 
 ## 🎯 Current Focus
 - Building production-ready Flutter applications  
 - Improving architecture and code quality  
-- Deepening understanding of scalable mobile systems  
+- Preparing for full-time roles after graduation  
 
-I believe consistency, discipline, and real practice are the foundation of long-term growth.  
-Always open to learning, collaboration, and meaningful technical discussions.
+I believe consistency, discipline, and real practice are the foundation of long-term growth.
 
 ---
 
@@ -76,6 +94,7 @@ Always open to learning, collaboration, and meaningful technical discussions.
 ---
 
 <p align="center">
-<i>Building with purpose. Growing with every project.</i>
+<i>Building with purpose. Writing code that scales.</i>
 </p>
+
 
