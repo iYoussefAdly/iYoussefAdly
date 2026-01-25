@@ -1,58 +1,52 @@
-<h1 align="center">Hey there 👋, I'm Youssef Adly</h1>
+<h1 align="center">Hi 👋, I'm Youssef Adly</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Flutter+Developer+💙;Skilled+in+MVVM+and+Bloc+🧠;Now+Mastering+Clean+Architecture+🧩;Building+Responsive+Apps+📱" alt="Typing SVG" />
+Flutter Developer | Clean Architecture | Scalable Mobile Apps
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final-year **Computer Science Student** – Faculty of Computers & AI  
-- 🚀 **DEPI Trainee** – Digital Egypt Pioneers Initiative  
-- 💙 Flutter Developer focused on scalable, clean cross-platform apps  
-- ✅ Skilled in **MVVM + Bloc**, and applying them across real projects  
-- 🧠 Currently learning **Clean Architecture** & **Responsive UI**  
-- 🔧 Confident with Git & GitHub for version control and team collaboration  
-- 📚 Passionate about real-world projects and continuous improvement
+
+I’m a **Flutter Developer** with a strong focus on building **scalable, well-structured mobile applications** using clean and maintainable code.
+
+I have hands-on experience with **Flutter & Dart**, applying **state management (BLoC)**, **MVVM**, and **Clean Architecture** across real-world projects. My journey combines solid technical foundations, continuous learning, and real team-based development.
+
+I recently completed the **Digital Egypt Pioneers Program (DEPI)**, where I worked as the **Flutter Team Lead** on *Qanouny*, a large-scale graduation project developed in collaboration with AI and Data Engineering teams. The project was recognized among the **top projects within AMIT Learning**.
 
 ---
 
-## 💼 Featured Projects
-
-### 🧑‍💻 Built Independently
-- ⚽ **LeagueTrack** – First self-built project  
-  → Built with **Bloc** & **Hive**  
-  → Applied core Flutter and state management concepts
-
-### 📘 Built by Following a Course
-- 📚 **Bookly App** – Based on a Flutter architecture course  
-  → Used **Cubit**, **Shimmer**, **API Integration**, and clean folder structure  
-  → Practiced advanced UI building and app architecture
-
-### 📚 Built During Learning
-| Project         | Tech Focus                                      |
-|------------------|--------------------------------------------------|
-| 📰 News App       | Basics of UI & navigation                       |
-| 🌦️ Weather App   | API integration & Cubit basics                  |
-| 💬 Chat App       | Firebase Auth + Realtime Database               |
-| 📝 Notes App      | Local DB using Hive                             |
-| 🛍️ Store App      | Working with API & Postman                      |
+## 🧠 Technical Focus
+- Flutter & Dart  
+- Clean Architecture & Clean Code  
+- State Management (BLoC)  
+- Firebase & REST APIs  
+- Responsive & Adaptive UI  
+- Git & GitHub  
 
 ---
 
-## 🚀 What I’m Learning Now
-- 🧩 Clean Architecture (Layers, Repositories, UseCases)  
-- 📱 Responsive UI & adaptability across devices  
-- 🎨 Advanced Flutter (custom widgets, animations)  
-- 🔥 Firebase (Firestore, Storage)  
-- 🧪 Unit & widget testing for robust code  
+## 🚀 Key Projects
+
+### 📘 Bookly App
+A feature-rich Flutter application built using **BLoC**, **MVVM**, and **Clean Architecture** principles.  
+Focused on scalable structure, API integration, and maintainable code.
+
+### ⚖️ Qanouny
+A large-scale graduation project developed during **DEPI**.  
+- Role: **Flutter Team Lead**  
+- Collaboration with AI & Data Engineering teams  
+- Recognized as one of the **top projects** within AMIT Learning  
 
 ---
 
-## 🎯 My Developer Goals
-- 🧱 Build scalable, production-ready Flutter apps  
-- 🤝 Collaborate effectively in real-world team projects  
-- 📈 Keep improving through daily practice and feedback  
+## 🎯 Current Focus
+- Building production-ready Flutter applications  
+- Improving architecture and code quality  
+- Deepening understanding of scalable mobile systems  
+
+I believe consistency, discipline, and real practice are the foundation of long-term growth.  
+Always open to learning, collaboration, and meaningful technical discussions.
 
 ---
 
@@ -62,15 +56,13 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge&logo=hive&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iYoussefAdly&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="170" />
@@ -83,25 +75,7 @@
 
 ---
 
-## 📫 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssef-adly-806038320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youssefadly332@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/iYoussefAdly">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>“Learning by doing. Growing with every line of code.”</i></p>
-
-<p align="center">
-🚀 Always open to collaboration and new ideas. Let’s build something great!
+<i>Building with purpose. Growing with every project.</i>
 </p>
 
