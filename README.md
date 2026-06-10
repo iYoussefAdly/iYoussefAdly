@@ -32,7 +32,6 @@ I completed the **Digital Egypt Pioneers Initiative (DEPI)** as a Flutter Develo
 
 - 🏆 Led the Flutter team on **Qanouny**, selected as a **Top Project** of the initiative
 - 🥈 Ranked **2nd place in the Freelancing Track** within my group, with a recognition certificate from El-Hareefa Company
-- 💼 Delivered a project for a **real client** through the Kafiil freelancing platform
 
 ---
 
