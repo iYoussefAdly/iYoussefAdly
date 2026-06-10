@@ -8,61 +8,83 @@
   <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=20&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Clean+Architecture+Enthusiast;Building+Scalable+Mobile+Apps;Focused+on+Production-Ready+Code" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-adly-806038320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-iota-six-wuubndx01w.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:youssefadly332@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Flutter Developer** focused on building **scalable, well-structured mobile applications** using clean, maintainable, and testable code.
+I'm a **Flutter Developer** and final-year **Information Systems** student (Class of 2026) at Beni-Suef University, focused on building **scalable, well-structured mobile applications** using clean, maintainable, and testable code.
 
-My experience includes working with **Flutter & Dart**, applying **BLoC**, **MVVM**, and **Clean Architecture** across real-world projects. I care deeply about project structure, code quality, and building applications that can grow over time.
+My experience includes working with **Flutter & Dart**, applying **BLoC**, **MVVM**, and **Clean Architecture** across real-world projects — from a national initiative mega project to an IoT & AI graduation project.
 
-I completed the **Digital Egypt Pioneers Program (DEPI)**, where I worked as the **Flutter Team Lead** on *Qanouny* — a large-scale graduation project developed in collaboration with AI and Data Engineering teams, and recognized among the **top projects within AMIT Learning**.
+I completed the **Digital Egypt Pioneers Initiative (DEPI)** as a Flutter Development Intern, where I:
+
+- 🏆 Led the Flutter team on **Qanouny**, selected as a **Top Project** of the initiative
+- 🥈 Ranked **2nd place in the Freelancing Track** within my group, with a recognition certificate from El-Hareefa Company
+- 💼 Delivered a project for a **real client** through the Kafiil freelancing platform
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 Responsive Dashboard
-A fully **responsive and adaptive dashboard** built with Flutter.  
-Designed to work seamlessly across different screen sizes (desktop, tablet, mobile), focusing on clean UI structure and reusable components.
+### ⚖️ [Qanouny — Legal Services App](https://github.com/iYoussefAdly/Qanouny_app)
+**Top Project, DEPI Round 3** • Role: **Flutter Team Lead**
 
-**Tech highlights:**  
-Flutter • Responsive UI • Adaptive Layouts • Clean UI Components
+A cross-functional legal services app built in collaboration with AI and Data Engineering teams. Enables users to access legal information, submit inquiries, and interact with an **AI-powered legal assistant**.
 
----
-
-### 📘 Bookly App (Clean Architecture)
-A feature-rich Flutter application built using **Clean Architecture** principles.  
-Focused on separation of concerns, scalability, API integration, and maintainable state management.
-
-**Tech highlights:**  
-Flutter • BLoC • Clean Architecture • REST APIs • Error Handling
+**Tech highlights:**
+Flutter • BLoC • Clean Architecture • REST APIs • Team Leadership • Cross-team Collaboration
 
 ---
 
-### ⚖️ Qanouny
-A large-scale graduation project developed during **DEPI**.  
-Worked as the **Flutter Team Lead**, collaborating with AI and Data Engineering teams to deliver a real-world solution.
+### 🌱 [PlantLife — Smart IoT & AI Plant Care System](https://github.com/iYoussefAdly/plant_life)
+**Graduation Project**
 
-**Tech highlights:**  
-Flutter • Team Leadership • Scalable Architecture • Cross-team Collaboration
+An **Arduino & ESP32-CAM** system for real-time plant vitals tracking and **AI-driven disease diagnosis**, paired with a mobile app that generates comprehensive treatment plans and tracks recovery until full plant rehabilitation.
+
+**Tech highlights:**
+Flutter • IoT (Arduino, ESP32-CAM) • AI Integration • Real-time Monitoring
+
+---
+
+### 🩺 [DocDoc — Doctor Booking App](https://github.com/iYoussefAdly/doc_doc_clean_arch)
+**Clean Architecture Showcase**
+
+A Flutter app fully structured with **Clean Architecture** — layered design, dependency injection, and best practices for testable, maintainable code.
+
+**Tech highlights:**
+Flutter • BLoC • Clean Architecture • Dependency Injection • REST APIs • Error Handling
 
 ---
 
 ## 🧠 Technical Focus
-- Flutter & Dart  
-- Clean Architecture & Clean Code  
-- State Management (BLoC)  
-- Responsive & Adaptive UI  
-- Firebase & REST APIs  
-- Git & GitHub  
+
+- Flutter & Dart
+- Clean Architecture, MVVM & SOLID Principles
+- State Management (BLoC / Cubit / Provider)
+- Responsive & Adaptive UI
+- Firebase (Auth, Firestore, Cloud Storage) & REST APIs
+- Payment Integration (Stripe, PayPal)
+- Git & GitHub
 
 ---
 
 ## 🎯 Current Focus
-- Building production-ready Flutter applications  
-- Improving architecture and code quality  
-- Preparing for full-time roles after graduation  
+
+- Publishing my apps to Google Play
+- Strengthening testing skills (unit & widget tests) and CI/CD
+- Preparing for full-time Flutter roles after graduation (July 2026)
 
 I believe consistency, discipline, and real practice are the foundation of long-term growth.
 
@@ -74,6 +96,7 @@ I believe consistency, discipline, and real practice are the foundation of long-
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -96,5 +119,3 @@ I believe consistency, discipline, and real practice are the foundation of long-
 <p align="center">
 <i>Building with purpose. Writing code that scales.</i>
 </p>
-
-
