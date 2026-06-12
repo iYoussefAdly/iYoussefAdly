@@ -83,7 +83,7 @@ Flutter • BLoC • Clean Architecture • Dependency Injection • REST APIs �
 
 ## 🎯 Current Focus
 
-- Publishing my apps to Google Play
+- Publishing a new app to Google Play
 - Strengthening testing skills (unit & widget tests) and CI/CD
 - Open to Flutter internships and junior roles
 
