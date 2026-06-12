@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/youssef-adly-806038320/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-iota-six-wuubndx01w.vercel.app/">
+  <a href="https://portfolio-peach-eight-87.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:youssefadly332@gmail.com">
@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Flutter Developer** and final-year **Information Systems** student (Class of 2026) at Beni-Suef University, focused on building **scalable, well-structured mobile applications** using clean, maintainable, and testable code.
+I'm a **Flutter Developer** and **Information Systems fresh graduate** (Class of 2026) from Beni-Suef University, focused on building **scalable, well-structured mobile applications** using clean, maintainable, and testable code.
 
 My experience includes working with **Flutter & Dart**, applying **BLoC**, **MVVM**, and **Clean Architecture** across real-world projects — from a national initiative mega project to an IoT & AI graduation project.
 
@@ -32,6 +32,8 @@ I completed the **Digital Egypt Pioneers Initiative (DEPI)** as a Flutter Develo
 
 - 🏆 Led the Flutter team on **Qanouny**, selected as a **Top Project** of the initiative
 - 🥈 Ranked **2nd place in the Freelancing Track** within my group, with a recognition certificate from El-Hareefa Company
+
+✅ Military Service: **Exempt** · Available **immediately**
 
 ---
 
@@ -83,7 +85,7 @@ Flutter • BLoC • Clean Architecture • Dependency Injection • REST APIs �
 
 - Publishing my apps to Google Play
 - Strengthening testing skills (unit & widget tests) and CI/CD
-- Preparing for full-time Flutter roles after graduation (July 2026)
+- Open to Flutter internships and junior roles
 
 I believe consistency, discipline, and real practice are the foundation of long-term growth.
 
